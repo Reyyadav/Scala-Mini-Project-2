@@ -146,6 +146,27 @@
 ![Option 1](https://github.com/Reyyadav/Scala-Mini-Project-2/assets/153619494/bcea6636-cbd4-47bb-8f78-2be8f53b02e2)
 
 
+### 4. Option 2
+
+
+![Option 2](https://github.com/Reyyadav/Scala-Mini-Project-2/assets/153619494/6becf4e1-8730-4d83-bb63-6572a35741a1)
+
+
+
+### 5. Option 3
+
+
+![Option 3](https://github.com/Reyyadav/Scala-Mini-Project-2/assets/153619494/7b22efa8-9275-42fd-9d0d-fa0e534df5ae)
+
+
+### 6. complete transactions
+
+
+![Option 4](https://github.com/Reyyadav/Scala-Mini-Project-2/assets/153619494/96951d09-adbb-4539-b2ce-445ded67d758)
+
+
+
+
 
 
 
