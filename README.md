@@ -2,14 +2,14 @@
 
 # ATM Machine
 
-### - We are writing a program for an ATM Machine
-### - Ask the user to enter the 5 Digit Card Number
-### - Ask the user to enter the 4 Digit Pin
-### - Ift the user provides the credentials correctly prompt him the following opotions
-#### - CHECK BALANCE
-#### - WITHDRAW THE AMOUNT
-#### - DEPOSIT THE AMOUNT
-#### - QUIT THE PROGRAM
+        ### - We are writing a program for an ATM Machine
+        ### - Ask the user to enter the 5 Digit Card Number
+        ### - Ask the user to enter the 4 Digit Pin
+        ### - Ift the user provides the credentials correctly prompt him the following opotions
+        #### - CHECK BALANCE
+        #### - WITHDRAW THE AMOUNT
+        #### - DEPOSIT THE AMOUNT
+        #### - QUIT THE PROGRAM
 
 
 
